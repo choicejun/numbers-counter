@@ -1,0 +1,21 @@
+body {
+  padding : 20px;
+  
+}
+h1 {
+  text-align: center;
+}
+.App {
+  justify-content: center;
+  margin : 0 auto;
+  width: 400px;
+}
+
+.App >section {
+  background-color: rgb(245,245,245);
+  border : 1px solid rgb(240,240,240);
+  border-radius: 5px;
+  padding : 20px;
+  margin-bottom: 10px;
+
+}
